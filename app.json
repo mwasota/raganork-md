@@ -1,11 +1,11 @@
 {
-	"name": "Deploy",
+	"name": "ragamd",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/mwasota/raganork-md.git",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
